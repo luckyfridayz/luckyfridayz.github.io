@@ -124,6 +124,7 @@ img{
 .nav__item{
     margin-bottom: 1.5rem;
     font-size: 1.8rem;
+    text-shadow: 3px 3px 2px rgba(0, 0, 0, 1);
 }
 
 .nav__toggle{
