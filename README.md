@@ -1,0 +1,1 @@
+# luckyfridayz.github.io
